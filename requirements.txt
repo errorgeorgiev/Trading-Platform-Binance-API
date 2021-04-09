@@ -1,0 +1,16 @@
+we are going to use web sockets to get data from
+we are using jscript/wscat to connect to the soccet
+we are going to use lightweight charts from npm(framework)
+we installed python3-pip
+we installed python-binance
+we installed TA-Lib wrapper for python3 (funcs for the database)
+we need numpy (used from TA-lib for faster computing)
+we are going to install flask (hosting the server)
+we installed backtrader package for python
+we installed matplotlib for python3
+
+
+
+
+
+

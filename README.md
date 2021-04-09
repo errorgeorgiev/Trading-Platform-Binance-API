@@ -1,6 +1,3 @@
-# Trading-Platform-Binance-API
-Trading Platform using the Binance API 
-
 
 ## Binance Part 1 -  Websockets and Real-Time Lightweight Charts
 
@@ -34,3 +31,4 @@ Trading Platform using the Binance API
 ## Binance Part 5 - Finishing up
 
 * Add stuff to UI
+
